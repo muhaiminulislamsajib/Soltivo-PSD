@@ -1,0 +1,92 @@
+.header_part{
+    position: relative;
+    padding-top: 20px;
+    background: #222222;
+    padding: 20px 50px;
+}
+
+.first_part .icon{
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    font-size: 30px;
+    color: #e54209;
+}
+.first_part .text_part{
+    padding-left: 25px;
+}
+@font-face {
+    font-family: 'myriad pro';
+    src: url(../fonts/MYRIADPRO-REGULAR.OTF);
+}
+.first_part .text_part p{
+    font-family: 'myriad pro', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #fff;
+
+}
+.first_part .text_part h4{
+    font-family: 'myriad pro', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 0px;
+    color: #fff;
+}
+
+.third_part .icon{
+    position: absolute;
+    top: 20px;
+    left: 890px;
+    font-size: 30px;
+    color: #e54209;
+}
+.third_part .text_part{
+    padding-left: 25px;
+}
+@font-face {
+    font-family: 'myriad pro';
+    src: url(../fonts/MYRIADPRO-REGULAR.OTF);
+    
+}
+.third_part .text_part p{
+    font-family: 'myriad pro', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #fff;
+}
+.third_part .text_part h4{
+    font-family: 'myriad pro', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 0px;
+    color: #fff;
+}
+.navmain{
+    background: #fff;
+    align-items: center;
+    position: relative;
+}
+.navmain .font_awesome1 {
+	position: absolute;
+	top: -10px;
+	left: 732px;
+	font-size: 50px;
+}
+.navmain .font_awesome .font_awesome2 {
+	position: absolute;
+	top: 3px;
+	left: 980px;
+	font-size: 30px;
+}
+.navmain .font_awesome .font_awesome3 {
+	position: absolute;
+	top: 5px;
+	left: 1025px;
+	font-size: 30px;
+}
+
+#main-menu{
+    position: absolute;
+    width: 100%;
+}
